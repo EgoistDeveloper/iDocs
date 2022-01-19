@@ -20,12 +20,12 @@
 	transform: translateX($val);
 }
 
-@mixin rotate($val){
+@mixin rotate($val) {
 	-webkit-transform: rotate($val);
 	transform: rotate($val);
 }
 
-@mixin scale($val){
+@mixin scale($val) {
 	-webkit-transform: scale($val);
 	transform: scale($val);
 }
