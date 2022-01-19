@@ -1,3 +1,5 @@
+⚠️ This fork lightweight version of iDocs. Vendor assets replaced with CDN.
+
 # iDocs
 iDocs is free one page documentation html template built with Bootstrap 4. Which helps you to create your offline and online documentation for your themes, templates, plugins and software.
 
